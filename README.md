@@ -9,17 +9,8 @@ A CLI based Dashlane clone which can be used to generate random passwords. Inspi
 
 ## CLI arguments
 
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 | Short | Long              | What it will do                       |
-| ----- |:-----------------:|
+| ----- |:-----------------:| -------------------------------------:|
 | -l    | --length [number] | length of the password (default: "8") |
 | -nd   | --no-digits       | omit numbers from password            |
 | -ns   | --no-symbols      | omit symbols from password            |
