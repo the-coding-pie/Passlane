@@ -10,7 +10,7 @@ A CLI based Dashlane clone which can be used to generate random passwords. Inspi
 ## CLI arguments
 
 | Short | Long              | What it will do                       |
-| ----- |:-----------------:| -------------------------------------:|
+| ----- |:----------------- | -------------------------------------:|
 | -l    | --length [number] | length of the password (default: "8") |
 | -nd   | --no-digits       | omit numbers from password            |
 | -ns   | --no-symbols      | omit symbols from password            |
