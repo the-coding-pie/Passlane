@@ -27,7 +27,7 @@ const generatePassword = (length = 8, hasDigits = true, hasSymbols = true) => {
 };
 
 const savePassword = (password) => {
-  const dest = path.join(__dirname, "passwords.txt");
+  const dest = path.join(__dirname, "../", "passwords.txt");
   const content =
     format(new Date(), "dd/MMM/yyyy hh:mm:ss a --- ") + password + "\r\n";
 
