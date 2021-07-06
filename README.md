@@ -8,8 +8,7 @@ A CLI based random password generator built using Node JS.
 
 ## How to use it?
 
-- `git clone` or `Download ZIP` this repo
-
+- `git clone` or `Download ZIP` this repo `https://github.com/the-coding-pie/Passlane.git`
 - npm install
 - node index.js (options)
 
