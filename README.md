@@ -1,8 +1,6 @@
 # Passlane
 A CLI based Dashlane clone which can be used to generate random passwords. Inspired by [Traversy Media](https://github.com/bradtraversy/passgen), and [Dashlane](https://www.dashlane.com/features/password-generator).
 
-![output](https://user-images.githubusercontent.com/63698375/124622350-a9cb4b80-de98-11eb-8bc9-8f12d3a13089.jpg)
-
 ## Features
 
 - By default it will generate a password of length 8 with alphabets, numbers, and symbols. But you can customize them using cli arguments.
@@ -10,6 +8,15 @@ A CLI based Dashlane clone which can be used to generate random passwords. Inspi
 - If you wish, you can also save each password by using `--save` cli argument. Which will generate a `passwords.txt` file and saves your password with the current date and time.
 
 ## CLI arguments
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 | Short | Long              | What it will do                       |
 | ----- |:-----------------:|
