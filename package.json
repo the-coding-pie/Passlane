@@ -1,0 +1,16 @@
+{
+  "name": "passlane",
+  "version": "1.0.0",
+  "description": "A CLI based random password generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "ak",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0",
+    "date-fns": "^2.22.1"
+  }
+}
