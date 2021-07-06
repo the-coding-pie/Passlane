@@ -29,10 +29,12 @@ A CLI based Dashlane clone which can be used to generate random passwords. Inspi
 
 - `git clone` or `Download ZIP` this repo `https://github.com/the-coding-pie/Passlane.git`
 - `cd` in to the root directory (in my case `Passlane` dir)
-- npm install
-- node index.js (options)
+- `npm install`
+- `node index.js (options)`
 
 ## To create a symlink and to make it run from anywhere, use the following commands:
 
-- npm link
-- passlane (options)
+- `npm link`
+- `passlane (options)`
+
+If you created a symlink, then you can use the tool by directly calling it's name like the above command (last one).
