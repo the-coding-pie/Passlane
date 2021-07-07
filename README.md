@@ -1,7 +1,8 @@
 # Passlane
 A CLI based Dashlane clone which can be used to generate random passwords. Inspired by [Traversy Media](https://github.com/bradtraversy/passgen), and [Dashlane](https://www.dashlane.com/features/password-generator).
 
-![carbon](https://user-images.githubusercontent.com/63698375/124696667-21ce5b80-df03-11eb-877e-9281e4dcb98a.png)
+
+![carbon (1)](https://user-images.githubusercontent.com/63698375/124696819-61954300-df03-11eb-87c6-058b9f5537f0.png)
 
 
 ## Features
