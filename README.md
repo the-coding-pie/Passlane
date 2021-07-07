@@ -34,7 +34,7 @@ A CLI based Dashlane clone which can be used to generate random passwords. Inspi
 If you created a symlink, then you can use the tool by directly calling it's name like the above command (last one).
 
 
-## CLI arguments
+## CLI arguments (options)
 
 | Short | Long              | What it will do                       |
 | ----- |:----------------- | :-------------------------------------|
